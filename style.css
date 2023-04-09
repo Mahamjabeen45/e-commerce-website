@@ -1,0 +1,135 @@
+.btn1 {
+    /* background-color: blue; */
+    /* color: aliceblue; */
+    width: 14px;
+    margin-right: 5pc;
+}
+
+.h1div {
+    text-align: center;
+    margin-top: 5pc;
+}
+
+.img1 {
+    margin-top: 3pc;
+}
+
+.boxblack {
+    height: 6pc;
+    margin-top: 3pc;
+    background-color: black;
+    text-align: center;
+}
+
+.h4 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.boxblack div {
+    display: inline-block;
+    margin: 2pc;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-left: 2pc;
+    border-radius: 2px;
+    height: 2pc;
+    width: 10pc;
+}
+
+.button a {
+    font-size: large;
+    margin: 1%;
+}
+
+.button :hover {
+    background-color: rgb(58, 58, 155);
+}
+
+.buttonhower:hover {
+    cursor: pointer;
+    background-color: rgb(58, 58, 155);
+}
+
+.whitebbox {
+    background-color: rgb(203, 214, 214);
+    display: flex;
+}
+
+.whitediv {
+    display: flex;
+    width: 40pc;
+    height: 3pc;
+    margin: 4%;
+}
+
+.headingh2 {
+    width: auto;
+    height: 60pc;
+    text-align: center;
+    margin: 2pc;
+}
+
+.footer {
+    background-color: black;
+    height: 46pc;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer h4 {
+    color: aliceblue;
+    margin-left: 5pc;
+    margin-top: 2pc;
+}
+
+.footer ul li a,
+.endfooterul ul li a {
+    text-decoration: none;
+    color: azure;
+}
+
+.footer ul li,
+.endfooterul ul li {
+    color: black;
+}
+
+.footer ul {
+    margin: 4pc;
+    margin-top: 0%;
+}
+
+.footerlastimg {
+    background-color: black;
+}
+
+.footerlastimg img {
+    margin-left: 3pc;
+    width: 10pc;
+    height: 10pc;
+}
+
+.footerlastimg {
+    display: flex;
+}
+
+.endfooterul {
+    margin-top: 5pc;
+    margin-left: 25pc;
+}
+
+.endfooterul ul li {
+    display: inline-block;
+    margin-left: 3pc;
+}
+
+.endfooterul span{
+    color: rgb(94, 92, 90);
+    margin-left: 8pc;
+    margin-top: 0%;
+}
